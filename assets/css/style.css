@@ -25,3 +25,13 @@ body {
   .bg-info{
       background-color: #2fcca5c2  !important;
   }
+
+  .btn-info{
+    background-color: #2fcca5  !important;
+}
+@media(max-width :768px) {
+    .card {
+        margin-top: 30px;
+        
+    }
+}
