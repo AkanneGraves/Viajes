@@ -17,3 +17,11 @@ body {
     opacity: 0.9;
     color: white;
 }
+.footer-wrap {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .bg-info{
+      background-color: #2fcca5c2  !important;
+  }
