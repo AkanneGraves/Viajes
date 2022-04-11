@@ -7,7 +7,10 @@ $(function() {
   
     y > 300 ? $("nav").addClass("nav-black") : $("nav").removeClass("nav-black");
   });
-  
+   
+  $('#enviarCorreo').click(function(){
+    alert("El correo ha sido enviado");
+  });
 
 });
 
